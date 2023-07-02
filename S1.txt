@@ -1,2 +1,4 @@
 This is a Sample 1 File
-`
+This text is written inside branch B1
+This text is written inside branch B2
+
